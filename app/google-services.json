@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39905326641",
+    "firebase_url": "https://notificacion-bcced.firebaseio.com",
+    "project_id": "notificacion-bcced",
+    "storage_bucket": "notificacion-bcced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39905326641:android:e8ab6f347dc263fd014710",
+        "android_client_info": {
+          "package_name": "com.example.ud.notificacionfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39905326641-ti5hgbv3i9druqq87ogfcnesipk427nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_QVa6VkE6014AUuJiIKSe4S6G4QP3GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39905326641-ti5hgbv3i9druqq87ogfcnesipk427nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
